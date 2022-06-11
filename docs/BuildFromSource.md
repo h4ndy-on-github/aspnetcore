@@ -259,7 +259,7 @@ These principles guide how we create and manage .slnf files:
 Before opening the project in Visual Studio Code, you will need to make sure that you have built the project.
 You can find more info on this in the "Building on command-line" section below.
 
-To open specific folder inside Visual studio code, you have to open it with `startvscode.cmd` file. Ths will setup neccessary environment variables and will open given directory in Visual Studio Code.
+To open specific folder inside Visual studio code, you have to open it with `startvscode.cmd` file. This will setup neccessary environment variables and will open given directory in Visual Studio Code.
 
 Using Visual Studio Code with this repo requires setting environment variables on command line first.
 Use these command to launch VS Code with the right settings.
